@@ -50,7 +50,7 @@ import (
 
 	"decred.org/cspp/dcnet"
 	"decred.org/cspp/x25519"
-	"github.com/decred/dcrd/crypto/blake256"
+	"github.com/hdfchain/hdfd/crypto/blake256"
 	"golang.org/x/crypto/ed25519"
 )
 
