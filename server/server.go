@@ -22,11 +22,11 @@ import (
 	"sync"
 	"time"
 
-	"decred.org/cspp/chacha20prng"
-	"decred.org/cspp/dcnet"
-	"decred.org/cspp/messages"
-	"decred.org/cspp/solver"
-	"decred.org/cspp/x25519"
+	"github.com/hdfchain/cspp/chacha20prng"
+	"github.com/hdfchain/cspp/dcnet"
+	"github.com/hdfchain/cspp/messages"
+	"github.com/hdfchain/cspp/solver"
+	"github.com/hdfchain/cspp/x25519"
 	"golang.org/x/crypto/ed25519"
 	"golang.org/x/sync/errgroup"
 )

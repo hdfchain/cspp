@@ -6,7 +6,7 @@ import (
 	"flag"
 	"os"
 	"testing"
-	// "decred.org/cspp/chacha20prng"
+	// "github.com/hdfchain/cspp/chacha20prng"
 )
 
 var nFlag = flag.Int64("n", 3, "node count")

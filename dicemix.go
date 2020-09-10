@@ -20,9 +20,9 @@ import (
 	"sort"
 	"time"
 
-	"decred.org/cspp/dcnet"
-	"decred.org/cspp/messages"
-	"decred.org/cspp/x25519"
+	"github.com/hdfchain/cspp/dcnet"
+	"github.com/hdfchain/cspp/messages"
+	"github.com/hdfchain/cspp/x25519"
 	"golang.org/x/crypto/ed25519"
 )
 

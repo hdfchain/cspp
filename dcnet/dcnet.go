@@ -7,8 +7,8 @@ import (
 	"math/big"
 	"strings"
 
-	"decred.org/cspp/chacha20prng"
-	"decred.org/cspp/x25519"
+	"github.com/hdfchain/cspp/chacha20prng"
+	"github.com/hdfchain/cspp/x25519"
 	"github.com/hdfchain/hdfd/crypto/blake256"
 )
 
